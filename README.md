@@ -1,2 +1,2 @@
 # pzy
-linux，stm32
+c语言的demo，笔试C

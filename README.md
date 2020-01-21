@@ -1,2 +1,2 @@
 # pzy
-c语言的demo，笔试C
+c语言的demo，笔试

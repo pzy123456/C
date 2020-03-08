@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "advan_light.h": "c",
+        "normal_light.h": "c",
+        "signal_light.h": "c"
+    }
+}
